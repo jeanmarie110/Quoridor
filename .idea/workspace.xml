@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2795a8c1-59c5-4b8d-825d-0aab20289b93" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YEckKbaad0zbDv1WQdzy0Q8EHq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RunManager" selected="Application.MainMenu">
+    <configuration name="MainMenu" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="aston.group12.view.MainMenu" />
+      <module name="Quoridor-master" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="ENABLE_SWING_INSPECTOR" value="true" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application" singleton="false">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="aston.group12.view.MainMenu" />
+      <module name="Quoridor-master" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="VM_PARAMETERS" value="--module-path /path/to/JavaFX/lib --add-modules=javafx.controls" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="aston.group12.view.MainMenu" />
+      <module name="Quoridor-master" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="--module-path /path/to/JavaFX/lib --add-modules=javafx.controls" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="VM_PARAMETERS" value="--module-path /path/to/JavaFX/lib --add-modules=javafx.controls" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\JM2.0\Downloads\Quoridor\Quoridor" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="ScalaAmmoniteRunConfigurationType" factoryName="Ammonite">
+      <setting name="execName" value="amm" />
+      <setting name="fileName" value="" />
+      <setting name="scriptParameters" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Ammonite.Unnamed" />
+      <item itemvalue="Application.MainMenu" />
+      <item itemvalue="Cucumber java.Unnamed" />
+      <item itemvalue="JAR Application.Unnamed" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2795a8c1-59c5-4b8d-825d-0aab20289b93" name="Default Changelist" comment="" />
+      <created>1582511335444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582511335444</updated>
+      <workItem from="1582511341620" duration="8486000" />
+      <workItem from="1582621843873" duration="4214000" />
+      <workItem from="1582845355243" duration="440000" />
+      <workItem from="1582903870046" duration="267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582627996691">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1582627996691" />
+    <state x="440" y="195" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582541218503">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="440" y="195" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1582541218503" />
+    <state x="463" y="93" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1582513300333">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="93" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.768@0.0.1366.768" timestamp="1582513300333" />
+    <state x="412" y="175" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582542741839">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="412" y="175" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1582542741839" />
+    <state x="417" y="150" key="EnvironmentVariablesDialog" timestamp="1582513317689">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="417" y="150" key="EnvironmentVariablesDialog/0.0.1366.768@0.0.1366.768" timestamp="1582513317689" />
+    <state x="463" y="129" key="FileChooserDialogImpl" timestamp="1582845827969">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="129" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1582845827969" />
+    <state width="1323" height="64" key="GridCell.Tab.0.bottom" timestamp="1582543131961">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="64" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1582543131961" />
+    <state width="1323" height="64" key="GridCell.Tab.0.center" timestamp="1582543131961">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="64" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1582543131961" />
+    <state width="1323" height="64" key="GridCell.Tab.0.left" timestamp="1582543131961">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="64" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1582543131961" />
+    <state width="1323" height="64" key="GridCell.Tab.0.right" timestamp="1582543131961">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="64" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1582543131961" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1582542771179">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1582542771179" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1582543061020">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1582543061020" />
+  </component>
+</project>
